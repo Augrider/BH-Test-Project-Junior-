@@ -1,0 +1,29 @@
+{
+    "name": "Game.GameRules.Variants",
+    "rootNamespace": "",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:72872094b21c16e48b631b2224833d49",
+        "GUID:28e0b43aa45cba24680733e5401da14d",
+        "GUID:9065528b68947eb48ace0b2a9bd09064",
+        "GUID:67bb826d32ff81949869a48183de3151",
+        "GUID:28f1329096e8e664c8869b73047dcd91",
+        "GUID:9f559681bad30eb4bb6570eb296804d9",
+        "GUID:96e544369750cda4480cae94bf170422",
+        "GUID:2d1813557b6623741bb97e31bd7d3f97",
+        "GUID:8af76e64c515a394c9c23bca6f82d055",
+        "GUID:f0021f26602f2fc459dcb90cfc01b1fb",
+        "GUID:15672a2d43f4f2245a1dd938e9c6c550",
+        "GUID:008cc6e08212e6a4cb0325fa8443a6e9",
+        "GUID:d90b6ad80a002f7449f143886df78a8a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Game.Network.Player",
+    "rootNamespace": "",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:72872094b21c16e48b631b2224833d49",
+        "GUID:9065528b68947eb48ace0b2a9bd09064",
+        "GUID:67bb826d32ff81949869a48183de3151",
+        "GUID:28e0b43aa45cba24680733e5401da14d",
+        "GUID:9f559681bad30eb4bb6570eb296804d9",
+        "GUID:65f9a29c5a4d6c340a8a6323e92a9ce0",
+        "GUID:008cc6e08212e6a4cb0325fa8443a6e9",
+        "GUID:15672a2d43f4f2245a1dd938e9c6c550"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

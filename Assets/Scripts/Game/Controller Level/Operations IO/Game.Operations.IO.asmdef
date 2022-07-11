@@ -1,0 +1,24 @@
+{
+    "name": "Game.Operations.IO",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9065528b68947eb48ace0b2a9bd09064",
+        "GUID:67bb826d32ff81949869a48183de3151",
+        "GUID:96e544369750cda4480cae94bf170422",
+        "GUID:28e0b43aa45cba24680733e5401da14d",
+        "GUID:48f220bc06bc23f40b99774535707173",
+        "GUID:9f559681bad30eb4bb6570eb296804d9",
+        "GUID:fa3502ccf042d4d458ea9bc3a620a024",
+        "GUID:15672a2d43f4f2245a1dd938e9c6c550",
+        "GUID:008cc6e08212e6a4cb0325fa8443a6e9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

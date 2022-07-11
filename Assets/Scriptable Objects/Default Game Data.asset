@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ac67928298e35f45afecf7adba15e2b, type: 3}
+  m_Name: Default Game Data
+  m_EditorClassIdentifier: 
+  playerCharacterData: {fileID: 11400000, guid: 5aa761a2cff508f40a3cbcc557fbf6bb, type: 2}
+  colorPalette: {fileID: 11400000, guid: e2a14b3c6b282294e9c6ce5c4b9b0427, type: 2}
+  controlParameters:
+    speed: 10
+    rotationSpeed: 200
+  hitStateDuration: 3
+  winScore: 3

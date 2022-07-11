@@ -1,0 +1,20 @@
+{
+    "name": "Game.Input.Default",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9065528b68947eb48ace0b2a9bd09064",
+        "GUID:67bb826d32ff81949869a48183de3151",
+        "GUID:65f9a29c5a4d6c340a8a6323e92a9ce0",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:6a6b3294f0a91a943a82561087a926b7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

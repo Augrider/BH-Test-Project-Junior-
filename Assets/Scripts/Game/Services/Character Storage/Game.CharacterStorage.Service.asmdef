@@ -1,0 +1,17 @@
+{
+    "name": "Game.CharacterStorage.Service",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9065528b68947eb48ace0b2a9bd09064",
+        "GUID:9f559681bad30eb4bb6570eb296804d9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

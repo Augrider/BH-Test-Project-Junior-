@@ -1,0 +1,22 @@
+{
+    "name": "Game.Character.Components",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9065528b68947eb48ace0b2a9bd09064",
+        "GUID:67bb826d32ff81949869a48183de3151",
+        "GUID:93459dc3496567742aa78e65d218b402",
+        "GUID:9f559681bad30eb4bb6570eb296804d9",
+        "GUID:fa3502ccf042d4d458ea9bc3a620a024",
+        "GUID:ed413b567822b9045985542106256abd",
+        "GUID:30817c1a0e6d646d99c048fc403f5979"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

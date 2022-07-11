@@ -1,0 +1,20 @@
+{
+    "name": "Game.GameRules",
+    "rootNamespace": "",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:28e0b43aa45cba24680733e5401da14d",
+        "GUID:96e544369750cda4480cae94bf170422",
+        "GUID:8af76e64c515a394c9c23bca6f82d055",
+        "GUID:93459dc3496567742aa78e65d218b402"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
